@@ -1,3 +1,6 @@
+[![Build Status](https://dev.azure.com/KevinDoherty0316/MyTestProject/_apis/build/status/kevinxkevinxkevin.pipelines-java?branchName=master)](https://dev.azure.com/KevinDoherty0316/MyTestProject/_build/latest?definitionId=1&branchName=master)
+
+
 
 # Contributing
 
